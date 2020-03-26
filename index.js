@@ -24,4 +24,3 @@ function sayHiToGrandma(string) {
 }
 
 //I noticed the solution has if (condition) then {do this}.
-//I remember
