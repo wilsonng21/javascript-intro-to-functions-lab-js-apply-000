@@ -22,3 +22,6 @@ function sayHiToGrandma(string) {
   else if (string === 'I love you, Grandma.')
     return 'I love you, too.'
 }
+
+//I noticed the solution has if (condition) then {do this}.
+//I remember
